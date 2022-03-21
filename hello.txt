@@ -7,14 +7,4 @@ hello gitlyxsnsbsb
 hello gitsdas
 hello gitdsa
 hello gitd
-hello gitd
-hello gitsad
-hello gita
-hello gitdd
-hello gitsd
-hello gita
-hello gitd
-hello gitsd
-hello gitad
-hello gitsa
-hello gitd
+hello git
